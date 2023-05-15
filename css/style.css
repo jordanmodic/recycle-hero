@@ -120,6 +120,7 @@ a.nav-item {
 }
 .hero-title {
     text-align: left;
+    padding-top: 2.5em;
 }
 .hero-description {
     text-align: center;
@@ -148,6 +149,8 @@ a.button-text {
 }
 .hero-image {
     width: 100%;
+    border: solid #376636;
+    border-width: 3px;
 }
 .features {
     padding-top: 5em;
