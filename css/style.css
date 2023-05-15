@@ -149,8 +149,8 @@ a.button-text {
 }
 .hero-image {
     width: 100%;
-    border: solid #376636;
-    border-width: 3px;
+    /* border: solid #376636; */
+    /* border-width: 3px; */
 }
 .features {
     padding-top: 5em;
