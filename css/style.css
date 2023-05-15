@@ -186,6 +186,9 @@ p.feature-words {
     border-width: 3px;
     margin: 0;
 }
+.feature-even-text {
+    padding-left: em;
+}
 .recycling-facts {
     padding-top: 10em;
     padding-bottom: 10em;
