@@ -248,9 +248,9 @@ h3.stats-percentage {
 }
 .question-text {
     text-align: left;
-    margin-bottom: 3em;
-    border-bottom: solid white;
-    padding-bottom: 1em;
+    margin-bottom: 2em;
+    border-top: solid white;
+    padding-top: 2em;
 }
 .faqs {
     padding-top: 10em;
